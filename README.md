@@ -1,8 +1,7 @@
 ### Teaching machines to think—because humans clearly need help.
 
 ### About Me:
-I'm Rahul, an AI enthusiast working at the intersection of Artificial Intelligence and IoT. My focus lies in building intelligent systems using LLMs, AI agents, computer vision, and NLP. I enjoy developing edge AI solutions on platforms like ESP32 and Jetson Nano—bringing smart, responsive tech into the real world.
-Teaching machines to think—because humans clearly need help.
+I'm Rahul, an AI enthusiast exploring the intersection of Artificial Intelligence and IoT. I enjoy building AI agents and intelligent systems using LLMs, computer vision, and NLP. I'm especially passionate about edge AI - deploying smart, responsive solutions on microcontrollers and single-board computers to bring real-world interactivity to life.
 
 
 ## Socials:
