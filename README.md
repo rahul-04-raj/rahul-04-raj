@@ -1,4 +1,4 @@
-### Teaching machines to think—because humans clearly need help.
+### Teaching machines to think - because humans clearly need help.
 
 ### About Me:
 I'm Rahul, an AI enthusiast exploring the intersection of Artificial Intelligence and IoT. I enjoy building AI agents and intelligent systems using LLMs, computer vision, and NLP. I'm especially passionate about edge AI - deploying smart, responsive solutions on microcontrollers and single-board computers to bring real-world interactivity to life.
